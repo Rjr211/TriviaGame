@@ -1,0 +1,49 @@
+body{
+    background-image: url('https://img3.goodfon.ru/original/1024x1024/b/41/nba-basketball-logo-nba.jpg');
+    background-size: cover;
+}
+
+h1{
+text-align: center;
+font-family: 'Squada One';
+color: white;
+
+}
+
+#start{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#start_button{
+    position: absolute;
+top: 50%;
+width: 250px;
+height: 50px;
+font-size: 25px;
+border-radius: 28px;
+font-family: Georgia;
+background-color: #3498db;
+color: #ffffff;
+border: none;
+}
+
+button{
+    border-radius: 28px;
+    position: relative;
+    top: 50%;
+    text-align: center;
+    color: white;
+    background-color: crimson;
+    border: none;
+}
+
+#timer, #question, #choices, #correct, #incorrect, .correct, .incorrect{
+   color: white;
+   font-size: 25px;
+   top: 50%;
+}
+
+

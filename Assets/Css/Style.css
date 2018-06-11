@@ -40,7 +40,7 @@ button{
     border: none;
 }
 
-#timer, #question, #choices, #correct, #incorrect, .correct, .incorrect{
+#timer, #question, #choices, #correct, #incorrect, .correct, .incorrect, div{
    color: white;
    font-size: 25px;
    top: 50%;

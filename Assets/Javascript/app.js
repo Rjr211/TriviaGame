@@ -51,7 +51,7 @@ $.fn.trivia = function() {
     }, {
         question: "Who is best known as 'The Beard'?",
         choices: ["James Harden", "Drake", "Shaquille O'neil", "Kevin Love"],
-        correct: 2
+        correct: 0
 
     }, {
         question: "What NBA player is also known as 'Swaggy P'?",
